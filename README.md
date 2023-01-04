@@ -2,6 +2,10 @@
 A simple web app that displays the current weather for a given location. Built with React.
 
 
+
+
+
+
 Getting Started
 To get started with the app, clone the repository and install the dependencies.
 
