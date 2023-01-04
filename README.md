@@ -1,4 +1,4 @@
-<h1>Weather-react-app</h1>
+<h1>Weather Web App</h1>
 A simple web app that displays the current weather for a given location. Built with React.
 
 
